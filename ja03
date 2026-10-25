@@ -1,0 +1,128 @@
+Job Overview
+The Senior Analytics Engineer is responsible for turning raw data into accurate, reliable, and well-organized data that powers business reports and customer-facing analytics products.
+
+The role focuses on building and maintaining data models, ensuring that metrics are consistent across client accounts, and delivering data to applications without errors or delays. The engineer will work closely with data engineers, analysts, product teams, and business stakeholders to ensure that data is accurate, properly documented, and ready for use.
+
+The ideal candidate has strong SQL and hands-on dbt experience, understands data modeling and testing, and has experience delivering production data to applications or other downstream systems.
+
+
+
+Key Responsibilities
+1. Data Modeling and Delivery
+Build and maintain data models that support reporting and analytics products.
+
+Ensure that metrics follow shared definitions across different client accounts.
+
+Prepare and deliver data feeds that applications and reporting tools can use.
+
+Define data requirements, including structure, keys, reporting periods, missing values, and update schedules.
+
+Ensure that data remains accurate and consistent from the warehouse to the final product.
+
+Monitor data delivery schedules and resolve issues involving missing, delayed, or incorrect data.
+
+Track data issues back to their source, model, or processing run.
+
+2. Client Data Onboarding
+Help onboard client accounts by preparing, validating, and integrating their data into the shared analytics platform.
+
+Assess existing data sources and reporting models to determine what can be reused or needs to be rebuilt.
+
+Estimate the time and resources required to complete data onboarding.
+
+Migrate legacy reports and data models to the shared data platform.
+
+Improve onboarding processes and documentation to make future client integrations faster and more efficient.
+
+3. Shared Metrics and Data Standards
+Build and maintain shared metrics for handle time, customer satisfaction (CSAT), quality scores, first contact resolution (FCR), service-level agreement (SLA) attainment, and workforce performance.
+
+Maintain common data dimensions, such as company, client, employee, team, channel, and date.
+
+Work with analysts to document metric definitions, calculations, exclusions, and examples.
+
+Resolve differences in metric definitions across client accounts and document any approved exceptions.
+
+Reduce duplicated data models by moving common calculations into shared models.
+
+4. Data Quality, Testing, and Reconciliation
+Write automated tests to check data structure, business rules, and consistency across models.
+
+Use model contracts and versioning to prevent unexpected changes from affecting downstream applications.
+
+Build automated reconciliation checks to compare source data, warehouse results, and product outputs.
+
+Investigate discrepancies and explain differences instead of accepting unexplained errors.
+
+Monitor data freshness and unusual changes in metrics.
+
+Lead investigations and document the causes of data issues.
+
+Maintain audit trails for financial data used in compensation, incentives, and billing.
+
+5. Collaboration and Team Support
+Review SQL and data modeling work submitted by analysts and other team members.
+
+Turn business requirements into clear technical specifications that can be built and tested.
+
+Work with product and platform engineers to ensure the data layer meets application requirements.
+
+Clarify metric definitions, reporting requirements, and business rules before development begins.
+
+Mentor junior and mid-level team members on data modeling, testing, and documentation.
+
+6. Documentation and Project Delivery
+Maintain documentation and operating guides for data models, client accounts, and data feeds.
+
+Participate in Agile/Scrum activities, including sprint planning, story estimation, reviews, and retrospectives.
+
+Ensure deliverables include appropriate tests, reconciliation checks, and documentation.
+
+Document important technical decisions and explain the reasons behind them.
+
+Follow Git and pull-request workflows, including reviewing and improving SQL code.
+
+
+
+Qualifications and Skills
+Technical Skills
+Strong SQL skills, including complex queries, window functions, aggregations, and query performance optimization.
+
+Hands-on experience with dbt, including models, sources, tests, macros, exposures, contracts, versioning, materializations, and incremental strategies.
+
+Knowledge of dimensional modeling, including fact tables, dimension tables, data grain, conformed dimensions, and surrogate keys.
+
+Experience with automated testing, data validation, and reconciliation.
+
+Proficiency in Git and pull-request workflows.
+
+Basic to intermediate Python skills for modifying and extending data ingestion and utility code.
+
+Ability to understand data pipelines, dependencies, and the impact of changes on downstream systems.
+
+Preferred Technical Experience
+Experience with Snowflake and data warehouse cost optimization.
+
+Familiarity with Apache Airflow, Astronomer, or similar orchestration tools.
+
+Experience with multi-client or multi-tenant data models.
+
+Knowledge of metadata-driven or catalog-driven data modeling.
+
+Experience working with customer-facing analytics products, embedded dashboards, or in-app reporting.
+
+Understanding of row-level and column-level security and data access controls.
+
+Knowledge of slowly changing dimensions, particularly for employee and workforce data.
+
+Experience integrating data from spreadsheets, shared drives, and manual trackers.
+
+Familiarity with legacy BI tools such as Looker and Tableau.
+
+Understanding of layered or medallion-style data warehouse architecture.
+
+Experience with contact center, BPO, or workforce management metrics.
+
+Experience handling financial reporting involving compensation, incentives, or billing.
+
+Familiarity with AI tools such as Claude for engineering tasks, with the ability to verify generated outputs.
