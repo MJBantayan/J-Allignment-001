@@ -1,0 +1,7 @@
+- Builds data-to-report pipelines for multiple brands under the digital performance analytics team of a major US telco company. 
+- Builds dashboards and ad hoc reports, identifying points of friction in the website and apps and reporting to technical teams for resolution.
+- Takes ownership of several recurring reports and dashboards: including regularly updates, documentation and onboarding of new users.
+- Took part in the multi-month migration of several telco brands from different databases to the Google Cloud Platform. 
+- Key KPI's monitored: Average Revenue per Unit (ARPU), Add to Cart rate (ATC), Quality Visits (QV), ATC-to-QV conversion, Click Through rates (CTR), Abandonment Rate, etc. 
+- Key issues monitored: web traffic fluctuation due to promos, banner placement on the website/app, buttons on the website. Funnel abandonment due to promo codes, identity verification, slow page loading times, unclear page content. 
+- Tech stack: Python, Google Cloud Platform (GCP), BigQuery (BQ-SQL), MS Excel, VS Code, Google Analytics 4 (GA4), Google Tag Manager (GTM), Adobe Analytics, Quantumetrics, Jira, Git 
